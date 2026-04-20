@@ -1,0 +1,1 @@
+# Architect-solutions-for-Dynamics-365-and-Microsoft-Power-Platform
